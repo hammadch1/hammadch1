@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+### I'm Hammad!
 
-<!--
-**hammadch1/hammadch1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 &nbsp; Former Business Analyst  at [Amazon](https://www.amazon.de/).
+- 💼 &nbsp; Former Software Engineer at [Techlogix](https://www.techlogix.com/).
+- 📖 &nbsp; Exploring new technologies.
+- 💁🏻 &nbsp; I'm actively seeking roles in data science, business analysis, software engineering, and IT. Keen to connect and explore how my diverse skill set and project experiences can contribute to your team's success!
 
-Here are some ideas to get you started:
+#### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[stackoverflow]: https://stackoverflow.com/users/11849189/muhammad-hammad-chaudhary
+[linkedin]: https://www.linkedin.com/in/hammadch1
