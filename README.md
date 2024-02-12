@@ -15,6 +15,7 @@
 #### Languages and Tools:
 
 <img align="left" alt="C++" width="32px" height="32px" src="https://raw.githubusercontent.com/hammadch1/hammadch1/main/icons/languages-and-tools/c++.png" style="margin-left: 10px" />
+<img align="left" alt="C++" width="32px" height="32px" src="https://raw.githubusercontent.com/hammadch1/hammadch1/main/icons/languages-and-tools/python.png" style="margin-left: 10px" />
 
 [stackoverflow]: https://stackoverflow.com/users/11849189/muhammad-hammad-chaudhary
 [linkedin]: https://www.linkedin.com/in/hammadch1
